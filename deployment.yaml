@@ -16,5 +16,5 @@ spec:
         app: mydep
     spec:
       containers:
-      - image: gcr.io/dikshant-sanyam/pallavicode:latest
+      - image: nginx:latest
         name: nginx
